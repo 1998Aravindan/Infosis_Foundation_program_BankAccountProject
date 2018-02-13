@@ -1,2 +1,1 @@
-Python program to manage bank accounts like depositing, Withdrawing, and Transfering Money between Accounts. All these Transaction
-can be perfomed by the Account holder after Athentication.
+A Python program to manage Bank accounts with command line interface. It uses python 3.6 and Oracle MySQL Database
